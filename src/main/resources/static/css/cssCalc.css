@@ -1,0 +1,30 @@
+@charset "UTF-8";
+.calcLayout{
+	background-color:#383838;
+	border-radius:10px;
+}
+.buttons button{
+	margin:7px;
+}
+	
+button{
+	height:50px;
+	width:50px;
+	background-color:skyblue;
+}
+.display{
+	height:100px;
+	width:100%;
+	font-size:50px;
+	text-align:right;
+	
+}
+button:hover{
+	background-color:white;
+}
+.ac{
+	background-color:red;
+}
+.equal{
+	background-color:orange;
+}
